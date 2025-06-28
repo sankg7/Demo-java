@@ -4,7 +4,7 @@
     <title>Elastic Beanstalk App</title>
 </head>
 <body>
-    <h1>Welcome to Jenkins CI CD mini project from pipeline from jenkinsfile with pipeline project</h1>
+    <h1>Welcome to Jenkins CI CD mini project from pipeline from jenkinsfile with pipeline project job</h1>
     <p><a href="hello">Say Hello</a></p>
 </body>
 </html>
