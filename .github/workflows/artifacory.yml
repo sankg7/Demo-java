@@ -24,5 +24,5 @@ jobs:
           ART_PASS: ${{ secrets.ARTIFACTORY_TOKEN }}
         run: |
           curl -u "$ART_USER:$ART_PASS" \
-          -T target/myapp.jar \
-          "https://shreeni.jfrog.io//artifactory/maven-repo/com/myapp/myapp.jar"
+          -T target/my-java-app-1.0-SNAPSHOT.war \
+          "https://shreeni.jfrog.io//artifactory/maven-repo/com/myapp/my-java-app-1.0-SNAPSHOT.war"
