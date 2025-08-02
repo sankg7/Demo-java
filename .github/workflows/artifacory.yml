@@ -25,4 +25,4 @@ jobs:
         run: |
           curl -u "$ART_USER:$ART_PASS" \
           -T target/my-java-app-1.0-SNAPSHOT.war \
-          "https://shreeni.jfrog.io//artifactory/maven-repo/com/myapp/my-java-app-1.0-SNAPSHOT.war"
+          "https://shreeni.jfrog.io//artifactory/generic-repo/com/myapp/my-java-app-1.0-SNAPSHOT.war"
