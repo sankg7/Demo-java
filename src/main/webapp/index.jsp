@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Elastic Beanstalk App from jenkins</title>
 </head>
